@@ -1,0 +1,13 @@
+body {
+    background-color: #D5E2F5;
+}
+
+.navbar {
+    background-color: #6D90C6 !important;
+}
+
+.col-2,
+.col-3,
+.col-7 {
+    height: 500px !important;
+}
